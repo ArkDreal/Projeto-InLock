@@ -1,0 +1,46 @@
+{
+	"info": {
+		"_postman_id": "e582926a-f213-405f-ad1a-28c66e9a5152",
+		"name": "Senai InLock",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Jogos",
+			"item": [
+				{
+					"name": "ListarTodos",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": null
+					},
+					"response": []
+				},
+				{
+					"name": "Cadastrar",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": null
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Usuário",
+			"item": [
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": null
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
